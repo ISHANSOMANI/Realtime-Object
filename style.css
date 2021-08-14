@@ -1,0 +1,25 @@
+body{
+    background-size: cover;
+    background-position: center;
+    }
+    .heading
+    {
+    font-size: 23px;
+    font-family: Algerian;
+    width: 100%;
+    margin: 0px;
+    text-decoration: overline;
+    }
+    
+    #status,#no_of_objects
+    {
+    font-size: 18px;
+    font-family: Comic Sans Ms;
+    text-decoration: dotted;
+    }
+    
+    canvas{
+        border:groove brown 6px;
+        box-shadow: 5px 3px 10px gray;
+    }
+    
